@@ -121,9 +121,10 @@ mapbox
 express-validator (optional)
 
 📸 Screenshots
-![home page](./assets/image.png)
-![sign_up_page](./assets/image-1.png)
-![listing_details](./assets/image-2.png)
+<img width="1920" height="1020" alt="HOME" src="./assets/image.png" />
+<img width="1920" height="1020" alt="sign_up_page" src="./assets/image1.png" />
+<img width="1920" height="1020" alt="listing_details" src="./assets/image-2.png" />
+
 
 🙌 Acknowledgements
 Project inspired by Airbnb
